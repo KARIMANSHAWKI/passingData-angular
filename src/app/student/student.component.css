@@ -1,0 +1,19 @@
+.container{
+    margin: 100px auto;
+    width:450px;
+    height:250px;
+    background-color: #a799b7 ;
+    text-align: center;
+}
+
+table{
+    margin: 20px auto;
+    padding-top:10px;
+}
+
+h2{
+    margin-bottom:30px
+}
+table, th, td {
+    border-collapse: collapse;
+  }

@@ -1,0 +1,41 @@
+p{
+    width:200px ;
+    height: 30px;
+    
+}
+
+.container{
+    margin: 100px auto;
+    width:450px;
+    height:250px;
+    background-color: #a799b7 ;
+    text-align: center;
+}
+
+h1{
+    padding-top: 30px;
+
+}
+
+input[type="text"]{
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+}
+
+.age{
+    margin-top: 15px;
+    margin-left: 0px;
+    
+}
+input[type="button"]{
+    border:none;
+    background-color: #fb3640;
+    width: 60px;
+    height: 30px;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    margin-top: 20px;
+    
+}

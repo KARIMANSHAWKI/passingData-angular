@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'PassingData';
+
+   data  = [] as any;
+  recieveData(event: String) {
+    console.log(event)
+
+    this.data.push(event);
+    console.log(this.data)
+    
+  }
 }
